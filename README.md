@@ -3,6 +3,7 @@
 MedScan is an intelligent pre-visit assistant designed to streamline doctor appointments. Before a medical consultation, MedScan engages patients with a few quick questions about their symptoms and current health status. It then summarizes these responses and intelligently combines them with the patient’s medical history (if available), giving doctors a clear and concise overview before the appointment begins.
 
 🔍 Features
+
 🤖 AI-powered symptom questioning
 
 📋 Automatic summary generation
